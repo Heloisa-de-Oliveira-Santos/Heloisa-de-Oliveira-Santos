@@ -9,8 +9,8 @@
 
 <div>
   <a href="https//:github.com/heloisax06">
-    <img  src="https://github-readme-stats.vercel.app/api?username=heloisax06&show_icons=true&e&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisax06&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula">
+    <img  src="https://github-readme-stats.vercel.app/api?username=heloisax06&show_icons=true&e&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisax06&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark">
 </div>
 
 ## Habilidades
